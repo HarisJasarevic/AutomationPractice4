@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="test">
+    <listeners>
+        <listener class-name="listeners.TestListener"></listener>
+    </listeners>
+<!--    <parameter name="browser" value="chrome"></parameter>-->
+    <test name="Chrome Test">
+        <classes>
+            <class name="tests.RegisterTests"></class>
+            <class name="tests.LoginTests"></class>
+            <class name="tests.BasketTests"></class>
+        </classes>
+    </test>
+<!--    <test name="Edge Test">-->
+<!--        <classes>-->
+<!--            <class name="tests.BaseTests"></class>-->
+<!--            <class name="tests.RegisterTests"></class>-->
+<!--            <class name="tests.LoginTests"></class>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>

@@ -1,0 +1,14 @@
+pages\Login2.class
+pages\BasePage.class
+utils\Constants.class
+core\OptionsManager.class
+utils\Utils$1.class
+utils\Utils.class
+model\RegisterUser.class
+pages\Basket.class
+model\LoginUserModel.class
+core\Environment.class
+driver\DriverManager.class
+pages\Register.class
+pages\Login.class
+utils\Utils$2.class

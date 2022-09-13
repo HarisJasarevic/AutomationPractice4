@@ -1,0 +1,15 @@
+2022-05-26 15:53:59.152 [main] INFO  core.Environment - Opening browser :chrome And navigating to: https://the-internet.herokuapp.com/login
+2022-05-26 15:54:03.348 [main] INFO  listeners.TestListener - STARTING METHOD: loginUser2
+2022-05-26 15:54:10.496 [main] INFO  listeners.TestListener - TEST METHOD: loginUser2 PASSED 
+2022-05-26 15:54:18.546 [main] INFO  core.Environment - Opening browser :chrome And navigating to: https://the-internet.herokuapp.com/login
+2022-05-26 15:54:20.858 [main] INFO  listeners.TestListener - STARTING METHOD: loginUserFromJson
+2022-05-26 15:54:21.187 [main] INFO  listeners.TestListener - TEST METHOD: loginUserFromJson PASSED 
+2022-05-26 15:54:28.940 [main] INFO  core.Environment - Opening browser :chrome And navigating to: https://the-internet.herokuapp.com/login
+2022-05-26 15:54:31.247 [main] INFO  listeners.TestListener - STARTING METHOD: loginUserTest
+2022-05-26 15:54:32.672 [main] INFO  listeners.TestListener - TEST METHOD: loginUserTest PASSED 
+2022-05-26 15:54:40.189 [main] INFO  core.Environment - Opening browser :chrome And navigating to: https://the-internet.herokuapp.com/login
+2022-05-26 15:54:42.742 [main] INFO  listeners.TestListener - STARTING METHOD: loginUserTest
+2022-05-26 15:54:44.303 [main] INFO  listeners.TestListener - TEST METHOD: loginUserTest PASSED 
+2022-05-26 15:54:52.406 [main] INFO  core.Environment - Opening browser :chrome And navigating to: https://the-internet.herokuapp.com/login
+2022-05-26 15:54:54.810 [main] INFO  listeners.TestListener - STARTING METHOD: loginUserTest
+2022-05-26 15:54:56.218 [main] INFO  listeners.TestListener - TEST METHOD: loginUserTest PASSED 
